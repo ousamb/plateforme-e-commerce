@@ -45,3 +45,4 @@ Le frontend Vue.js est géré dans un dépôt Git distinct.
 ## Statut
 
 Projet en cours de développement.
+# plateforme-e-commerce
